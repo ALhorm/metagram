@@ -1,6 +1,6 @@
-# metagram
+# <p align="center">metagram
 
-**metagram** is a modern framework for Telegram Bot API in Python.
+<p align="center">A modern framework for [Telegram Bot API](https://core.telegram.org/bots/api) in Python.
 
 ## Getting started
 
@@ -12,7 +12,7 @@
 
 - Installation with git:
     ```sh
-    $ git clone -link-
+    $ git clone https://github.com/ALhorm/metagram
     $ cd -rep-
     $ python setup.py install
     ```
