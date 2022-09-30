@@ -1,8 +1,6 @@
-# <p align="center">metagram
+# metagram
 
-<p align="center">A modern framework for <a href="https://core.telegram.org/bots/api">Telegram Bot API</a> in Python.
-
-# <p align="center">version: 1.0.0
+A modern framework for <a href="https://core.telegram.org/bots/api">Telegram Bot API</a> in Python.
 
 ## Getting started
 
