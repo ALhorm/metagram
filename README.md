@@ -2,7 +2,7 @@
 
 <p align="center">A modern framework for <a href="https://core.telegram.org/bots/api">Telegram Bot API</a> in Python.
 
-# <p align="center">version 1.0.0
+# <p align="center">version: 1.0.0
 
 ## Getting started
 
