@@ -12,8 +12,8 @@ A modern framework for <a href="https://core.telegram.org/bots/api">Telegram Bot
 
 - Installation with git:
     ```sh
-    $ git clone https://github.com/ALhorm/metagram
-    $ cd -rep-
+    $ git clone https://github.com/ALhorm/metagram.git
+    $ cd metagram
     $ python setup.py install
     ```
 
