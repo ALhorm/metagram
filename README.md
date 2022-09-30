@@ -1,6 +1,6 @@
 # metagram
 
-A modern framework for <a href="https://core.telegram.org/bots/api">Telegram Bot API</a> in Python.
+A modern and easy to learn framework for <a href="https://core.telegram.org/bots/api">Telegram Bot API</a> in Python.
 
 ## Getting started
 
