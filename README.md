@@ -53,4 +53,4 @@ bot.polling(main)
 
 Now, if we enter the `/start` command, the bot will answer us with a greeting.
 
-You can find full documentation [here](there.will.be.docs).
+You can find full documentation [here](here.will.be.docs).
