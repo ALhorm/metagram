@@ -8,4 +8,4 @@ venv:
   python3 -m venv $(VENV)
 
 docs:
-  python3 -m pip install furo
+  $(PYTHON) -m pip install furo
