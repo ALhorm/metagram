@@ -18,3 +18,4 @@ Content
 .. toctree::
   
   install
+  quick_start
