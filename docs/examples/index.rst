@@ -1,4 +1,6 @@
 Examples
 ========
 
-* `Echo bot <echo_bot>`_
+.. toctree::
+  
+  echo_bot
