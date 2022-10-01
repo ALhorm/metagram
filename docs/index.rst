@@ -21,3 +21,4 @@ Content
   
   install
   quick_start
+  examples/index
