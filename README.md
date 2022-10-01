@@ -1,5 +1,7 @@
 # metagram
 
+[![Read the Docs](https://img.shields.io/readthedocs/metagram)](https://metagram.readthedocs.io/en/latest/)
+
 A modern and easy to learn framework for <a href="https://core.telegram.org/bots/api">Telegram Bot API</a> in Python.
 
 ## Getting started
