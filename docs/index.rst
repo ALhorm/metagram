@@ -8,3 +8,7 @@ Welcome to metagram's documentation!
 .. image:: https://img.shields.io/badge/Telegram%20Bot%20API-6.2-blue
   :target: https://core.telegram.org/bots/api
   :alt: Telegram Bot API
+
+.. image:: https://img.shields.io/badge/license-GPL-blue
+  :target: https://www.gnu.org/licenses/gpl-3.0.en.html
+  :alt: Telegram Bot API
