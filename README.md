@@ -1,4 +1,4 @@
-# metagram
+# <p align="center">metagram
 
 [![Read the Docs](https://img.shields.io/readthedocs/metagram)](https://metagram.readthedocs.io/en/latest/)
 [![Telegram Bot API](https://img.shields.io/badge/Telegram%20Bot%20API-6.2-blue)](https://core.telegram.org/bots/api)
