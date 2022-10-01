@@ -29,4 +29,5 @@ Content
   
   install
   quick_start
+  types/index
   examples/index
