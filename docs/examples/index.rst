@@ -1,4 +1,4 @@
 Examples
 ========
 
-* `Echo bot <echo_bot.rst>`_
+* `Echo bot <echo_bot>`_
