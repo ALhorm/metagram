@@ -1,6 +1,8 @@
 # metagram
 
 [![Read the Docs](https://img.shields.io/readthedocs/metagram)](https://metagram.readthedocs.io/en/latest/)
+[![Telegram Bot API](https://img.shields.io/badge/Telegram%20Bot%20API-6.2-blue)](https://core.telegram.org/bots/api)
+[![General Public License](https://img.shields.io/badge/license-GPL-blue)](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
 A modern and easy to learn framework for <a href="https://core.telegram.org/bots/api">Telegram Bot API</a> in Python.
 
