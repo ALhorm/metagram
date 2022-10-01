@@ -17,4 +17,4 @@ Content
 -------
 .. toctree::
   
-  Installation Guide
+  install
