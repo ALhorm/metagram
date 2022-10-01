@@ -13,6 +13,14 @@ Welcome to metagram's documentation!
   :target: https://www.gnu.org/licenses/gpl-3.0.en.html
   :alt: Telegram Bot API
 
+A modern and easy to learn framework for Telegram Bot API in Python.
+
+Features
+--------
+* Easy to learn
+* Easy to use
+* Small amount of code
+
 Content
 -------
 
