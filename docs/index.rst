@@ -15,7 +15,9 @@ Welcome to metagram's documentation!
 
 Content
 -------
+
 .. toctree::
+  :glob:
   
   install
   quick_start
