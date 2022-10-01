@@ -12,3 +12,9 @@ Welcome to metagram's documentation!
 .. image:: https://img.shields.io/badge/license-GPL-blue
   :target: https://www.gnu.org/licenses/gpl-3.0.en.html
   :alt: Telegram Bot API
+
+Content
+-------
+.. toctree::
+  
+  Installation Guide
